@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/dreamsofcode-io/guestbook/internal/config"
+	"github.com/hifisultonauliya/goApi/internal/config"
 )
 
 func TestCreatingNewValidation(t *testing.T) {

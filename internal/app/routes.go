@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/dreamsofcode-io/guestbook/internal/handler"
-	"github.com/dreamsofcode-io/guestbook/internal/middleware"
+	"github.com/hifisultonauliya/goApi/internal/handler"
+	"github.com/hifisultonauliya/goApi/internal/middleware"
 )
 
 func (a *App) loadRoutes(tmpl *template.Template) {

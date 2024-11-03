@@ -1,4 +1,4 @@
-module github.com/dreamsofcode-io/guestbook
+module github.com/hifisultonauliya/goApi
 
 go 1.23.0
 

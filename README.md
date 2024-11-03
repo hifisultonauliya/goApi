@@ -1,6 +1,8 @@
-# Guestbook
+# goApi
 
-This is the code used for the Dreams of Code video on setting up a production ready VPS using Docker, Docker Compose, Traefik, and Watchtower.
+This goApi is complete base golang api for setting up a production ready VPS using Docker, Docker Compose, Traefik, and Watchtower.
+
+Thanks for base repo project for https://github.com/dreamsofcode-io/guestbook
 
 ## Usage
 
